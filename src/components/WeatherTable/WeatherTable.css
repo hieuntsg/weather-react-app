@@ -1,0 +1,13 @@
+.paddedBox{
+  padding: 12px;
+}
+
+.clickableBox:hover {
+  cursor: pointer;
+  background: rgba(100,100,100,0.1)
+}
+
+.noMargin {
+  margin:0;
+  padding:0;
+}
